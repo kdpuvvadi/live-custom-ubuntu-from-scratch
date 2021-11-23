@@ -30,4 +30,4 @@ jobs:
           tag_name: focal-latest
           prerelease: true
           files: |
-            scripts/ubuntu-from-scratch.iso.gz
+            scripts/ubuntu-from-scratch.iso
